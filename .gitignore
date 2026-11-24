@@ -1,0 +1,20 @@
+# 编译产物 / kernel build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+*.order
+Module.symvers
+modules.order
+.tmp_versions/
+
+# 编辑器 / 系统
+.DS_Store
+*.swp
+*~
+*.log
+
+# 打包产物
+*.deb
